@@ -39,7 +39,7 @@ import javax.xml.transform.stream.StreamResult;
  */
 public class ResourceMappingHelper {
 
-    private static final String DEFAULT_FILE_PATH  = "string_generated.xml";
+    private static final String DEFAULT_FILE_PATH  = "string_generated";
 
     private String csvSourcePath;
     private String defaultStringXmlPath;
